@@ -12,14 +12,15 @@ We are going to launch our website very soon stay tuned
 social-list: $lib.icon-lists
 
 -- end: ds.page
--- ds.package-info package-info:
-template-name: Coming Soon 8
-screenshot: $assets.files.assets.thumbnail.png
-updated-on: 26 Feb 2024
-preview-url: https://meenukumari28.github.io/coming-soon-8/
-github-url: https://github.com/MeenuKumari28/coming-soon-8
-features: - Light and dark mode, - Responsive Design for web and mobile, - Colour styles, - High quality Images, - Multipage website
-pages: - Home page, - Content page, - Documentation detail page, - Contact page, - Terms & conditions page
 
-A customizable blog starter including modern designs with dark & light themes.
-Built with Next.js, Tailwind, and MDX.
+-- ds.package-info package-info:
+template-name: Ocean waves coming soon template
+screenshot: $assets.files.assets.thumbnail.png
+updated-on: 23 Feb 2024
+preview-url: https://meenukumari28.github.io/coming-soon-8/
+domain-name: meenukumari28.github.io/coming-soon-8
+github-url: https://github.com/MeenuKumari28/coming-soon-8
+features: - Responsive Design for web and mobile, - High quality content, - Customizable
+
+A customizable abstract pattern coming soon template with modern theme. Built
+with fifthtry design system.

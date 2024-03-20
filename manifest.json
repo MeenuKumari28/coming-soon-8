@@ -67,8 +67,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "0B37FCEEB6AD2C44E075759C0523E6986DF0CD9EB28C549CE6E8DF29B258CB9C",
-      "size": 900
+      "checksum": "BB460D7255E145F9B4123D04C31DC7775C4517FD12F31CC6A250AC661005924A",
+      "size": 809
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -87,5 +87,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/coming-soon-8/zip/refs/heads/main",
-  "checksum": "8266286587D7F31C6C01693622A324AE74523618D1F6CD9A9424C01CF62381B4"
+  "checksum": "9985B129F549B80AA44B22E1650946A3F62A4F9D55ADCDEC13C169886CFA19F8"
 }
